@@ -1,0 +1,25 @@
+{
+  "courses": [
+    {
+      "id": "B.Tech",
+      "sub": ["DAA","CD"]
+      
+
+    },
+    {
+      "id": "Hotel Management",
+      "sub" : []
+      
+    },
+    {
+      "id": "BCA",
+      "sub" :[]
+    },
+    {
+      "id": "PolyTechnic"
+    },
+    {
+      "id": "B.Pharma"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "959060409262",
+    "project_id": "face-detection-flutter-2e62c",
+    "storage_bucket": "face-detection-flutter-2e62c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959060409262:android:f5795f9ffbe6e97722e63f",
+        "android_client_info": {
+          "package_name": "com.app.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959060409262-bfqpvgej8iiirloucp5narf73b02vh5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZRTU-ghe33gmSO-IkdSpViUj9HVrFgXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959060409262-bfqpvgej8iiirloucp5narf73b02vh5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
